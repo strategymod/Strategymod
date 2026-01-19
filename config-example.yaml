@@ -1,0 +1,13 @@
+server:
+  name: StrategyMod-Test
+  mode: private
+  environment: development
+
+features:
+  unlocked_content: true
+  test_resources: enabled
+  logging: verbose
+
+security:
+  sandboxed: true
+  user_data_storage: disabled
